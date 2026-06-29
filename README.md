@@ -7,8 +7,7 @@ Reflection Questions:
 5. How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
 For the DriverPass project, the client was the owner of a driving school that wanted a web-based scheduling system which would allow customers to make appointments and pay online. It was supposed to be able to coordinate the schedules of ten cars and drivers in order to avoid any cases of overlapping. In general, I
-feel that I have done a good job when creating the UML diagrams. I tried to maintain visuals in order to demonstrate the interaction between all parts of the system to developers. If I had an opportunity to revise something in my assignment, I would revise the technical requirements. Some more information about the
-infrastructure of the future software will definitely be useful for the developers.
+feel that I have done a good job when creating the UML diagrams, I tried to maintain visuals in order to demonstrate the interaction between all parts of the system to developers. If I had an opportunity to revise something in my assignment, I would revise the technical requirements, some more details will definitely be useful for the developers.
 
-In order to understand the needs of the users, I looked at the major issues which they were facing, such as the secretary being stuck on the phone. This was incorporated into my design through the use of the web interface that would handle the entire booking procedure automatically. It’s important to consider this in
+In order to understand the needs of the users, I looked at one of the issues they were facing, such as the secretary being stuck on the phone. This was incorporated into my design through the use of the web interface that would handle the entire booking procedure automatically. It’s important to consider this in
 the process of software design since in the absence of a solution to the daily problems of the user, the software becomes meaningless. In my future designs, I will always begin the design process with the creation of user workflow maps. In the future, I will probably use Activity Diagrams.
